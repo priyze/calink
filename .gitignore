@@ -1,0 +1,11 @@
+# Secrets: never commit these
+credentials.json
+token.json
+
+# Personal data (contains sentences from your emails)
+seen.db
+
+# Python
+venv/
+__pycache__/
+*.pyc
